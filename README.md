@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Uriel! 👋
 
-<!--
-**urielberenstein/urielberenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering student at Weber State University with a strong interest in technology, engineering, and problem-solving.
 
-Here are some ideas to get you started:
+I enjoy applying theoretical knowledge to practical projects, developing new technical skills, and exploring different areas of engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+**Weber State University**  
+B.S. in Electrical Engineering | In Progress
+
+### 🛠️ Technical Skills
+- **Programming & Hardware Description:** VHDL
+- **Development Tools:** Xilinx Vivado, LTspice
+- **Hardware:** FPGA (Basys 3)
+- **Engineering:** Digital Systems, Circuit Design, Electronics
+
+### 💻 Projects
+As a junior Electrical Engineering student, I've had the opportunity to work on projects across different areas of engineering. This GitHub profile showcases some of my hands-on experience, particularly in digital systems and hardware design using VHDL.
